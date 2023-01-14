@@ -1,0 +1,20 @@
+1649267268214	Rename resource 'application.properties'
+1649268117754	Copy package
+1649268133589	Delete element
+1649268149015	Copy package
+1649268155897	Delete element
+1649487140464	Move compilation units
+1649487172221	Delete element
+1649487201933	Move compilation units
+1649487215093	Delete element
+1649487273543	Delete element
+1649487280342	Delete element
+1649488146281	Rename package 'com.turkcell.elearner.ws.modals'
+1649489654162	Delete element
+1649490303184	Rename type 'CoureRepository'
+1649491392172	Rename type 'UpdateAccountTypeAggregeate'
+1649491401130	Rename type 'CreateAccountTypeAggregeate'
+1649491836816	Move compilation units
+1649492200241	Rename type 'AccountTypeEventsHandler'
+1649492211105	Rename type 'AccountTypeCreateEventsHandler'
+1649492223618	Rename type 'AccountTypeEventsHandler'
